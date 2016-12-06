@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_6y-6ELvkEeaatZHjrzc3CQ" name="projectdata" dataPackage="_6zIEALvkEeaatZHjrzc3CQ" Server="Localhost 127.0.0.1" FilePath="C:/SID/ProjetMeOSID/TOS_BD-20161026_1219-V6.3.0/workspace/PROJETBI/DonneesExcels/indicateurs-de-re-sultat-des-lyce-es-d-enseignement-ge-ne-ral-et-technologique-2012.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="indicateurs-de-re-sultat-des-ly" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="indicateurs-de-re-sultat-des-ly:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+    <sheetColumns>T</sheetColumns>
+    <sheetColumns>U</sheetColumns>
+    <sheetColumns>V</sheetColumns>
+    <sheetColumns>W</sheetColumns>
+    <sheetColumns>X</sheetColumns>
+    <sheetColumns>Y</sheetColumns>
+    <sheetColumns>Z</sheetColumns>
+    <sheetColumns>AA</sheetColumns>
+    <sheetColumns>AB</sheetColumns>
+    <sheetColumns>AC</sheetColumns>
+    <sheetColumns>AD</sheetColumns>
+    <sheetColumns>AE</sheetColumns>
+    <sheetColumns>AF</sheetColumns>
+    <sheetColumns>AG</sheetColumns>
+    <sheetColumns>AH</sheetColumns>
+    <sheetColumns>AI</sheetColumns>
+    <sheetColumns>AJ</sheetColumns>
+    <sheetColumns>AK</sheetColumns>
+    <sheetColumns>AL</sheetColumns>
+    <sheetColumns>AM</sheetColumns>
+    <sheetColumns>AN</sheetColumns>
+    <sheetColumns>AO</sheetColumns>
+    <sheetColumns>AP</sheetColumns>
+    <sheetColumns>AQ</sheetColumns>
+    <sheetColumns>AR</sheetColumns>
+    <sheetColumns>AS</sheetColumns>
+    <sheetColumns>AT</sheetColumns>
+    <sheetColumns>AU</sheetColumns>
+    <sheetColumns>AV</sheetColumns>
+    <sheetColumns>AW</sheetColumns>
+    <sheetColumns>AX</sheetColumns>
+    <sheetColumns>AY</sheetColumns>
+    <sheetColumns>AZ</sheetColumns>
+    <sheetColumns>BA</sheetColumns>
+    <sheetColumns>BB</sheetColumns>
+    <sheetColumns>BC</sheetColumns>
+    <sheetColumns>BD</sheetColumns>
+    <sheetColumns>BE</sheetColumns>
+    <sheetColumns>BF</sheetColumns>
+    <sheetColumns>BG</sheetColumns>
+    <sheetColumns>BH</sheetColumns>
+    <sheetColumns>BI</sheetColumns>
+    <sheetColumns>BJ</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6zIEALvkEeaatZHjrzc3CQ" name="default" dataManager="_6y-6ELvkEeaatZHjrzc3CQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6zIEAbvkEeaatZHjrzc3CQ" id="_ozyJkLvkEeaatZHjrzc3CQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEArvkEeaatZHjrzc3CQ" label="Etablissement" length="51" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEA7vkEeaatZHjrzc3CQ" label="Ville" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEBLvkEeaatZHjrzc3CQ" label="Code_Etablissement" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEBbvkEeaatZHjrzc3CQ" label="Commune" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEBrvkEeaatZHjrzc3CQ" label="Secteur_Public_PU_Prive_PR" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEB7vkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_L" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIECLvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_ES" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIECbvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_S" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIECrvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_STG" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEC7vkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_STI" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEDLvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_STL" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEDbvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_ST2S" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEDrvkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_Musiq_Danse" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIED7vkEeaatZHjrzc3CQ" label="Effectif_Presents_serie_Hotellerie" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEELvkEeaatZHjrzc3CQ" label="Effectif_Presents_Total_series" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEEbvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_L" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEErvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_ES" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEE7vkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_S" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEFLvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_STG" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEFbvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_STI" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEFrvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_STL" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEF7vkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_ST2S" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEGLvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_Musiq_Danse" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEGbvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_serie_Hotellerie" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEGrvkEeaatZHjrzc3CQ" label="Taux_Brut_de_Reussite_Total_series" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEG7vkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_L" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEHLvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_ES" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEHbvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_S" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEHrvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_STG" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEH7vkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_STI" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEILvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_STL" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEIbvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_ST2S" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEIrvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_Musiq_Danse" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEI7vkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_serie_Hotellerie" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEJLvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_Acad_Total_series" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEJbvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_L" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEJrvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_ES" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEJ7vkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_S" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEKLvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_STG" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEKbvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_STI" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEKrvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_STL" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEK7vkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_ST2S" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIELLvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_Musiq_Danse" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIELbvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_serie_Hotellerie" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIELrvkEeaatZHjrzc3CQ" label="Taux_Reussite_Attendu_France_Total_series" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEL7vkEeaatZHjrzc3CQ" label="Sructure_pedagogique_en_5_groupes" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEMLvkEeaatZHjrzc3CQ" label="_Bachel_sort__2de_1re_Term__Etab_" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEMbvkEeaatZHjrzc3CQ" label="_Bachel_sort__Terminales_Etab_" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEMrvkEeaatZHjrzc3CQ" label="_Bachel_sort__2de_1re_Term__Acad_" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEM7vkEeaatZHjrzc3CQ" label="_Bachel_sort__Terminales_Acad_" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIENLvkEeaatZHjrzc3CQ" label="_Bachel_sort__2de_1re_Term__France" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIENbvkEeaatZHjrzc3CQ" label="_Bachel_sort__Terminales_France" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIENrvkEeaatZHjrzc3CQ" label="Effectif_de_seconde" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEN7vkEeaatZHjrzc3CQ" label="Effectif_de_premiere" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEOLvkEeaatZHjrzc3CQ" label="Taux_acces_Brut_seconde_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEObvkEeaatZHjrzc3CQ" label="Taux_acces_Attendu_Acad_seconde_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEOrvkEeaatZHjrzc3CQ" label="Taux_acces_Attendu_France_seconde_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEO7vkEeaatZHjrzc3CQ" label="Taux_acces_Brut_premiere_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEPLvkEeaatZHjrzc3CQ" label="Taux_acces_Attendu_Acad_premiere_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEPbvkEeaatZHjrzc3CQ" label="Taux_acces_Attendu_France_premiere_BAC" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEPrvkEeaatZHjrzc3CQ" label="Academie" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6zIEP7vkEeaatZHjrzc3CQ" label="Departement" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
